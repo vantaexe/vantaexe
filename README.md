@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="Vantaexe Neon Moonlit Frontier.png" alt="VantaEXE banner" width="100%">
 </p>
@@ -22,7 +21,7 @@
 
 ---
 
-### 🌌 &nbsp; `who.am.i`
+## 🌌 `who.am.i`
 
 Hey, I'm **Vanta** 👋
 
@@ -34,7 +33,7 @@ I'm here to experiment, learn how things work, make mistakes, and gradually turn
 
 ---
 
-### 🧪 &nbsp; `currently.exploring`
+## 🧪 `currently.exploring`
 
 - 🤖 Exploring AI tools and discovering how AI works
 - 🛠️ Learning how applications are built
@@ -44,19 +43,17 @@ I'm here to experiment, learn how things work, make mistakes, and gradually turn
 
 ---
 
-### 🚧 &nbsp; `the.build.log`
+## 🚧 `the.build.log`
 
-**01 / ExplainMyCode**
-
-An AI-powered tool designed to help people understand code, one explanation at a time.
-
-`STATUS: PLANNING`
+| Project | What it does | Status |
+| --- | --- | --- |
+| **ExplainMyCode** | An AI-powered tool to help people understand code, one explanation at a time | 🟡 Planning |
 
 More projects will appear here as I build them.
 
 ---
 
-### 🧠 &nbsp; `the.mindset`
+## 🧠 `the.mindset`
 
 > I don't need to know everything.
 > I just need to keep learning.
@@ -67,6 +64,6 @@ No pretending. No shortcuts. Just curiosity, experimentation, and progress.
 
 <p align="center">
   <code>SESSION STATUS: LEARNING</code>
-  <br><br>
+  <br>
   <i>Made of curiosity. Powered by late-night ideas.</i>
 </p>
