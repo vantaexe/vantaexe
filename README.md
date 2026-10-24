@@ -47,7 +47,7 @@ I'm here to experiment, learn how things work, make mistakes, and gradually turn
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| **ExplainMyCode** | An AI-powered tool to help people understand code, one explanation at a time | 🟡 Planning |
+| **[ExplainMyCode](https://github.com/vantaexe/ExplainMyCode)** | An AI-powered tool to help people understand code, one explanation at a time | ✅ Built |
 
 More projects will appear here as I build them.
 
