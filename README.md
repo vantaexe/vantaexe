@@ -5,6 +5,10 @@
 <h1 align="center">VANTA.EXE</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=168BFF&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Vanta;Exploring+AI+%26+software;Learning+by+building;EXPLORE+%C2%B7+BUILD+%C2%B7+LEARN+%C2%B7+REPEAT" alt="Typing animation">
+</p>
+
+<p align="center">
   <code>EXPLORE · BUILD · LEARN · REPEAT</code>
 </p>
 
@@ -30,6 +34,25 @@ I'm at the beginning of my coding journey, exploring AI, software, and the thing
 I don't know everything yet. That's the point.
 
 I'm here to experiment, learn how things work, make mistakes, and gradually turn ideas into real projects.
+
+---
+
+## 📊 `live.stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vantaexe&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantaexe&layout=compact&theme=dark&hide_border=true" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vantaexe&theme=dark&hide_border=true" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vantaexe/vantaexe/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+</p>
+
+> Stats and the snake update automatically as you commit — the snake needs one workflow run after pushing to appear for the first time.
 
 ---
 
