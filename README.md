@@ -5,7 +5,7 @@
 <h1 align="center">VANTA.EXE</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=168BFF&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Vanta%7C;Exploring+AI+%26+software%7C;Learning+by+building%7C;EXPLORE+%C2%B7+BUILD+%C2%B7+LEARN+%C2%B7+REPEAT%7C" alt="Typing animation">
+  <img src="typing-cursor.svg" alt="Typing animation" width="700">
 </p>
 
 <p align="center">
